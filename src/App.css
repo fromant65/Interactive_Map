@@ -1,0 +1,14 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+}
+
+.region-info {
+  padding: 15px;
+  text-align: left;
+  user-select: none;
+}
